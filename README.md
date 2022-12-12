@@ -24,7 +24,7 @@ Das Ergbnis wird über ein Print-command in der Konsole dargestellt.
 Das Ergebnis ist, dass das durchschnittliche Rating bei Torhütern zwischen 190-200cm am höchsten ist. Die Unterschiede sind aber nur sehr gering.
 Das Ergebnis wird mit einem Histogramm dargestellt.
 
-5. Es wird ermittelt wie viele Spieler in den jeweiligen europäischen Top-Ligen spielen. Die Premier League beinhaltet als europaische Top-Liga die meisten Spieler mit 3,3% aller Spieler
+5. Es wird ermittelt wie viele Spieler in den jeweiligen europäischen Top-Ligen spielen. Die Premier League beinhaltet als europaische Top-Liga die meisten Spieler mit 3,3% aller Spieler.
 85% der Spieler spielen NICHT in einer europäischen Top-Liga.
 Das Ergebnis wurde mit einem Kreisdiagramm dargestellt.
 
